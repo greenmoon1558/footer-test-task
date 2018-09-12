@@ -1,0 +1,22 @@
+.icon{
+    height: 40px;
+    width: 55px;
+    display: inline-block;
+}
+.icon--big{
+    width: 80px;
+    height: 65px;
+    display: block;
+}
+.icon--message{
+    background: url("../../public/images/messages.png") center center no-repeat;
+    background-size: contain;
+}
+.icon--clock{
+    background: url("../../public/images/clock.png") center center no-repeat;
+    background-size: contain;
+}
+.icon--telephone{
+    background: url("../../public/images/telephone.png") center center no-repeat;
+    background-size: contain;
+}
